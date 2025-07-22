@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://dhruvportfolio-gamma.vercel.app](https://dhruvportfolio-gamma.vercel.app)
-
 - 💬 Ask me about **react,javascript,node.js**
 
 - 📫 How to reach me **hdhruv089@gmail.com**
