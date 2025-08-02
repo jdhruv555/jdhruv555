@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhruv Jha</h1>
-<h3 align="center">I'm a FullStack Developer from India</h3>
+<h3 align="center">I'm a Machine Learning Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdhruv555&label=Profile%20views&color=0e75b6&style=flat" alt="jdhruv555" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dhruvowo" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvowo?logo=twitter&style=for-the-badge" alt="dhruvowo" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
-
-- 💬 Ask me about **react,javascript,node.js**
-
-- 📫 How to reach me **hdhruv089@gmail.com**
+- 🌱 I’m currently learning **Web3/Diving into Quantum Computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
